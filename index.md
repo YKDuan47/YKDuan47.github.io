@@ -1,5 +1,5 @@
 
-# 段永康，北京师范大学 政府管理学院 信息管理系
+# 段永康，北京师范大学信息管理系
 
 
 ## Yongkang Duan@Dept of Information Management, Beijing Normal University
