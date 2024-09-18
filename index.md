@@ -17,4 +17,4 @@
 
 **CONTACTS**
 
-[duanyongkang_1@163.com](mailto:duanyongkang_1@163.com)
+[duanyongkang@mail.bnu.edu.com](mailto:duanyongkang@mail.bnu.edu.com)
