@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "Yongkang Duan('段永康' in Chinese)"
+title: "About me"
+except: "About me"
 author_profile: true
 redirect_from: 
   - /about/
