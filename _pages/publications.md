@@ -6,7 +6,7 @@ author_profile: true
 ---
 ### PUBLICATIONS(* corresponding author)
 SCI/SSCI indexed Journal
-1. **Yongkang Duan**, Guangyu Zhao, Qian Geng, Jian Jin. "From Reactive to Proactive Policy Implement Method Through Intelligent Enterprise Matching", Enterprise Information Systems(SCI, Q2)
+1. **Yongkang Duan**, Guangyu Zhao, Qian Geng, Ping Ji, Jian Jin. "From Reactive to Proactive Policy Implement Method Through Intelligent Enterprise Matching", Enterprise Information Systems(SCI, Q2)
 
 Chinese Journal Paper
 3. **段永康**,赵广宇,耿骞,靳健. 基于CAMC-Net的企业合作伙伴推荐方法研究, 情报学报. 2025
