@@ -9,9 +9,14 @@ author_profile: true
 
 Education
 ======
-* Ph.D in Software Engineering, Beijing University of Post and Telecommunications,2030 (expected)
-* M.S. in Information Science, Beijing Normal University, 2026
-* B.S. in information Resource Management, Sichuan University, 2023
+* Ph.D in Software Engineering, Beijing University of Post and Telecommunications, 2026~2030 (expected)
+* M.S. in Information Science, Beijing Normal University, 2023~2026
+* B.S. in information Resource Management, Sichuan University, 2019~2023
+
+Academic experience
+======
+* Nov.2025~Now, Research Assistant, Max M. Fisher College of Business, The Ohio State University
+* Mar.2022~May.2022, Research Assistant, National Science Library, Chinese Academy of Sciences
 
 Selected News
 ======
