@@ -5,23 +5,23 @@ permalink: /awards/
 author_profile: true
 ---
 
-### 奖学金
-- 北京师范大学新生一等奖学金
-- 北京师范大学学术一等奖学金
-- 四川大学综合二等奖学金
-- 四川大学单项一等奖学金
+### Scholarships
+- First-Class Freshman Scholarship, Beijing Normal University
+- First-Class Academic Scholarship, Beijing Normal University
+- Second-Class Comprehensive Scholarship, Sichuan University
+- First-Class Individual Scholarship, Sichuan University
 
-### 荣誉称号
-- 北京市优秀毕业生
-- 北京师范大学京师先锋党员
-- 四川大学优秀毕业生干部
-- 四川大学优秀学生干部
+### Honors
+- Outstanding Graduate of Beijing Municipality
+- Jingshi Vanguard Party Member, Beijing Normal University
+- Outstanding Graduate Student Cadre, Sichuan University
+- Outstanding Student Cadre, Sichuan University
 
-### 党组织荣誉
-- 北京师范大学政府管理学院优秀共产党员
-- 北京师范大学"政先锋"学生党员微党课比赛二等奖
-- 作为党支部书记获评北京师范大学先进党支部
+### CPC Honors
+- Outstanding Communist Party Member, School of Government, Beijing Normal University
+- Second Prize, “Governance Vanguard” Student Party Member Micro Party Lecture Competition, Beijing Normal University
+- Led the Party Branch as Secretary to win the Advanced Party Branch Award, Beijing Normal University
 
-### 学术竞赛
-- 北京师范大学第三十二届"京师杯"课外学术科技作品竞赛主体赛优秀奖
-- "挑战杯"四川大学2021-2022年度大学生创业计划竞赛三等奖
+### Academic Competitions
+- Honorable Mention, Main Competition, 32nd “Jingshi Cup” Extracurricular Academic and Technological Works Competition, Beijing Normal University
+- Third Prize, “Challenge Cup” 2021–2022 Student Entrepreneurship Plan Competition, Sichuan University
