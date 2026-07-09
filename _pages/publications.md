@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-### PUBLICATIONS(* corresponding author)
+### PUBLICATIONS(* corresponding author; † equal contribution / co-first authors)
 SCI/SSCI indexed Journal
 1. **Yongkang Duan**, Guangyu Zhao, Qian Geng, Ping Ji, Jian Jin. "From Reactive to Proactive Policy Implement Method Through Intelligent Enterprise Matching", Enterprise Information Systems,2026,20(3): 357-389.(SCI, Q1)
 
@@ -14,6 +14,7 @@ Chinese Journal Paper
 1. **段永康**,赵广宇,耿骞,曹涵维,靳健.基于大语言模型的政策知识库构建与政策比较研究——以惠企政策为例,数据分析与知识发现, 2025,9(10):68-84.
 
 Peer Refereed Conference Paper
+2. Jiannan Xu<sup>†</sup>, **Yongkang Duan**<sup>†</sup>, Jane Yi Jiang, Jiding Zhang. "Escaping the Nash Trap: Structural Estimation and Alignment of Strategic Reasoning in Large Language Models", Third Conference on Language Modeling (COLM 2026), 2026.
 1. Yu Zhu, **Yongkang Duan***, Hengjia Hu, Jian Jin and Jiyuan Ye. "LISGPT: Research on the Construction of a Library and Information Science Academic LLM Based on the Boundary Knowledge Enhance Framework", 88th Annual Meeting of the Association for Information Science and Technology (ASIS&T 2025), 2025, 62(1): 848-859.
 
 Peer Refereed Conference Presentation
