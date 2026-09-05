@@ -15,7 +15,7 @@ Education
 
 Academic experience
 ======
-* Nov.2025~Now, Research Assistant, Max M. Fisher College of Business, The Ohio State University
+* Nov.2025~Aug.2026, Research Assistant, Max M. Fisher College of Business, The Ohio State University
 * Mar.2022~May.2022, Research Assistant, National Science Library, Chinese Academy of Sciences
 
 Selected News
